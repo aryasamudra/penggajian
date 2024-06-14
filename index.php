@@ -15,8 +15,6 @@
 
 <body>
     <div class="d-flex" id="wrapper">
-    <body>
-    <div class="d-flex" id="wrapper">
         <?php include "components/sidebar.php" ?>
         <div id="page-content-wrapper">
             <?php include "components/nav.php" ?>
